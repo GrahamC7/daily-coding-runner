@@ -1,33 +1,20 @@
-# Arrays & Hashing
-https://neetcode.io/problems/two-sum
-https://neetcode.io/problems/valid-anagram
-https://neetcode.io/problems/contains-duplicate
-https://neetcode.io/problems/group-anagrams
-https://neetcode.io/problems/top-k-frequent-elements
-https://neetcode.io/problems/product-of-array-except-self
-
-# Two Pointers
-https://neetcode.io/problems/valid-palindrome
-https://neetcode.io/problems/two-sum-ii-input-array-is-sorted
-https://neetcode.io/problems/3sum
-https://neetcode.io/problems/container-with-most-water
-
-# Sliding Window
-https://neetcode.io/problems/best-time-to-buy-and-sell-stock
-https://neetcode.io/problems/longest-substring-without-repeating-characters
-
-# Stack
-https://neetcode.io/problems/valid-parentheses
-https://neetcode.io/problems/min-stack
-https://neetcode.io/problems/evaluate-reverse-polish-notation
-
-# Binary Search
-https://neetcode.io/problems/binary-search
-https://neetcode.io/problems/search-a-2d-matrix
-https://neetcode.io/problems/find-minimum-in-rotated-sorted-array
-
-# Misc
-https://neetcode.io/problems/majority-element
-https://neetcode.io/problems/maximum-subarray
-https://neetcode.io/problems/merge-intervals
-https://neetcode.io/problems/merge-two-sorted-lists
+# Easy Problems
+https://neetcode.io/problems/two-integer-sum
+https://neetcode.io/problems/is-anagram
+https://neetcode.io/problems/duplicate-integer
+https://neetcode.io/problems/is-palindrome
+https://neetcode.io/problems/validate-parentheses
+https://neetcode.io/problems/buy-and-sell-crypto
+https://neetcode.io/problems/reverse-a-linked-list
+https://neetcode.io/problems/merge-two-sorted-linked-lists
+https://neetcode.io/problems/linked-list-cycle-detection
+https://neetcode.io/problems/invert-a-binary-tree
+https://neetcode.io/problems/depth-of-binary-tree
+https://neetcode.io/problems/same-binary-tree
+https://neetcode.io/problems/subtree-of-a-binary-tree
+https://neetcode.io/problems/climbing-stairs
+https://neetcode.io/problems/meeting-schedule
+https://neetcode.io/problems/number-of-one-bits
+https://neetcode.io/problems/counting-bits
+https://neetcode.io/problems/reverse-bits
+https://neetcode.io/problems/missing-number
